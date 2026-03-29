@@ -3,7 +3,9 @@
 
 A production-level, gesture-controlled 3D gallery system built with Python, OpenCV, and MediaPipe. Experience a seamless, sci-fi inspired interface that brings your image collection to life through intuitive hand gestures.
 
-![NeuroGallery Preview](gallery/Screenshot%202026-03-12%20232400.png)
+[![NeuroGallery Preview](screenshots/shot_20260329-203845.jpg)](screenshots)
+> [!TIP]
+> **View more high-resolution previews in the [screenshots/](screenshots) folder.**
 
 ## 🚀 Vision
 NeuroGallery is designed to provide a premium, immersive experience for browsing images. Leveraging advanced computer vision, it translates your physical hand movements into cinematic 3D animations and UI interactions.
